@@ -7,7 +7,7 @@
   * sqlite
 
 * command history
-  * `rails new r7_bootstrap_esbuild -c bootstra`
+  * `rails new r7_bootstrap_esbuild -c bootstrap`
   * `bin/rails g scaffold book name:string price:integer`
   * `bin/rails db:migrate`
 
